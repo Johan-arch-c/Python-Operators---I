@@ -1,0 +1,9 @@
+tree1=49
+tree2=76
+tree3=65
+tree4=86
+tree5=23
+sum=tree1+tree2+tree3+tree4+tree5
+print(sum)
+average=sum/5
+print(average)
