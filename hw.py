@@ -1,0 +1,9 @@
+1=49
+2=76
+3=65
+4=86
+5=23
+sum=1+2+3+4+5
+print(sum)
+average=sum/5
+print(average)
